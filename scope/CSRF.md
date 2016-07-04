@@ -33,4 +33,4 @@ Email やチャットを介してリンクを送るといったソーシャル�
 # 参考資料
 脆弱性概要は、下記資料の日本語抄訳となります。
 
-[Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)])
+[Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))
