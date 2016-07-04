@@ -35,8 +35,8 @@ Sensitive Data Exposure
 ## メールにて機密情報を送信する
 メールの暗号化については、以下2点があると考えております。
 
-* メール本文の暗号化
-* メールの送信経路の暗号化
+1. メール本文の暗号化
+2. メールの送信経路の暗号化
 
 ### メール本文の暗号化
 他のクラウドサービス等も比較致しましたが、システムメールの本文自体を暗号化することは普及が進んでおらず、
@@ -50,8 +50,5 @@ Sensitive Data Exposure
 
 # 参考資料
 
-OWASP Top 10 for 2013 A6 – Sensitive Data Exposure  
-http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf  
-  
-エラーメッセージからの情報暴露  
-https://www.ipa.go.jp/security/awareness/vendor/programmingv1/b09_03.html  
+* [OWASP Top 10 for 2013 A6 – Sensitive Data Exposure](http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf)
+* [エラーメッセージからの情報暴露](https://www.ipa.go.jp/security/awareness/vendor/programmingv1/b09_03.html)
