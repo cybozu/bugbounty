@@ -1,7 +1,7 @@
-# 脆弱性名
 CSV Excel Macro Injection（CEMI）
+====
 
-# 脆弱性概要
+## 脆弱性概要
 多くのWebアプリケーションは、ユーザーに対してユーザー設定などのテンプレートをダウンロードすることを許可しています。　
 また多くのユーザーはExcel（もしくはLibre OfficeやOpen Office）でCSVファイルを開くことを選択します。
 WebアプリケーションがCSVファイルの中身を正しく検証していない場合、セルに入力された内容がマクロとして実行される可能性があります。
@@ -14,10 +14,10 @@ CSV Excelマクロインジェクション攻撃は、ユーザーの信頼を�
 
 従ってファイル内の潜在的な悪意ある機能についてExcelからの任意の警告を気にとめません。
 
-# 脆弱性の認定可否
+## 脆弱性の認定可否
 認定しない
 
-# 脆弱性として認定しない理由
+## 脆弱性として認定しない理由
 サイボウズでは他社様の事例として、改修されているケースがあることを確認しています。
 
 > 90131 CSV Excel Macro Injection Vulnerability in export customer tickets
@@ -39,7 +39,7 @@ CSV Excelマクロインジェクション攻撃は、ユーザーの信頼を�
  
 これらを考慮し、最終的には、CSV Excel Macro Injectionの問題を弊社としては脆弱性としては扱わないことといたしました。
 
-# 参考資料
+## 参考資料
 脆弱性概要は、下記資料の日本語抄訳となります。
 
 [CSV Excel Macro Injection](https://www.owasp.org/index.php/CSV_Excel_Macro_Injection])
