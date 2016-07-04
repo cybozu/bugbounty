@@ -28,11 +28,9 @@ Email やチャットを介してリンクを送るといったソーシャル�
 
 * ログアウト処理
 * GETで副作用的にデータの変更がある API（例：通知の既読処理）
-* UI の状態を保持するためのデータを変更する API（例：フォルダの開閉処理）
-※ アクセス権に関連する設定を除く
+* UI の状態を保持するためのデータを変更する API（例：フォルダの開閉処理） ※ アクセス権に関連する設定を除く
 
 # 参考資料
 脆弱性概要は、下記資料の日本語抄訳となります。
 
-Cross-Site Request Forgery (CSRF)
-[https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)]
+[Cross-Site Request Forgery (CSRF)](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)])
