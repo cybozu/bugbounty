@@ -6,8 +6,8 @@
 * [Cross Site Request Forgery （CSRF）](CSRF.md)
 * [Sensitive Data Exposure](SensitiveDataExposure.md)
 
-上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。
-[脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)
+上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
+[脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
 
 詳細な認定条件については、今後追加を予定しております。
 
