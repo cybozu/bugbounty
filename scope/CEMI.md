@@ -42,4 +42,4 @@ CSV Excelマクロインジェクション攻撃は、ユーザーの信頼を�
 ## 参考資料
 脆弱性概要は、下記資料の日本語抄訳となります。
 
-[CSV Excel Macro Injection](https://www.owasp.org/index.php/CSV_Excel_Macro_Injection])
+[CSV Excel Macro Injection](https://www.owasp.org/index.php/CSV_Excel_Macro_Injection)
