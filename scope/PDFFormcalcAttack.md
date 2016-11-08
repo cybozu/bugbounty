@@ -12,7 +12,7 @@ APPSEC EU 2015でAlexander Inführ氏によって公開されました。
 攻撃を受ける可能性があるユーザーの条件は以下です。  
 
 1. 任意のpdfをアップロード可能な機能を有するアプリケーションを利用している  
-2. Adobe PDF Reader Plugin を IE もしくは FF で有効にしている  
+2. Adobe PDF Reader Plugin を Microsoft Internet ExplorerもしくはMozilla Firefoxで有効にしている  
 
 クロスオリジンでリクエストを送信できる問題（CVE-2014-8453）はAdobe社によって修正されています。  
 但し同一オリジン内でリクエストを送信できる点については、Adobe社より、脆弱性としない見解をいただいています。  
@@ -33,9 +33,18 @@ Google 社をはじめ著名なサービスを展開する多くの企業が上�
 結論として、再現する条件が限定的（他社製品を利用していることが攻撃の前提条件となる）ことも踏まえ、本件は制限事項として扱う方針とします。  
 以下の Webページにて、お客様へご案内いたしております。  
 
-[cybozu.com制限事項](https://www.cybozu.com/jp/service/restrictions.html)  
-[Adobe Acrobat Reader Pluginの利用について（2016/11/11）](https://cs.cybozu.co.jp/2016/006288.html)  
+* [cybozu.com制限事項](https://www.cybozu.com/jp/service/restrictions.html)  
+* [Adobe Acrobat Reader Pluginの利用について（2016/11/11）](https://cs.cybozu.co.jp/2016/006288.html)  
+
+Microsoft Internet ExplorerもしくはMozilla Firefoxをご利用中のお客様には、Acrobat Reader Pluginが有効になっている場合は無効化することを推奨いたします。
+設定の確認および方法については以下をご確認ください。
+
+* [Internet Explorer 11 のアドオンを管理する](https://support.microsoft.com/ja-jp/help/17447/windows-internet-explorer-11-manage-add-ons)  
+* [Firefox のプラグインを使用するには](https://support.mozilla.org/ja/kb/use-plugins-play-audio-video-games)
 
 ## 参考資料
-[Hack Patch!-PDF特殊機能（FormCalc編）](https://shhnjk.blogspot.jp/2016/10/pdfformcalc.html)  
-[InsertScript-Multiple PDF Vulnerabilities - Text and Pictures on Steroids](http://insert-script.blogspot.jp/2014/12/multiple-pdf-vulnerabilites-text-and.html)
+* [Hack Patch!-PDF特殊機能（FormCalc編）](https://shhnjk.blogspot.jp/2016/10/pdfformcalc.html)  
+* [InsertScript-Multiple PDF Vulnerabilities - Text and Pictures on Steroids](http://insert-script.blogspot.jp/2014/12/multiple-pdf-vulnerabilites-text-and.html)
+
+文中の他社登録商標・商標・記載されている会社名、システム名、製品名は各社の登録商標または商標です。  
+なお、本文中では、「™」、「®」は明記しておりません。
