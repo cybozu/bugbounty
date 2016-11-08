@@ -46,5 +46,6 @@ Microsoft Internet ExplorerもしくはMozilla Firefoxをご利用中のお客�
 * [Hack Patch!-PDF特殊機能（FormCalc編）](https://shhnjk.blogspot.jp/2016/10/pdfformcalc.html)  
 * [InsertScript-Multiple PDF Vulnerabilities - Text and Pictures on Steroids](http://insert-script.blogspot.jp/2014/12/multiple-pdf-vulnerabilites-text-and.html)
 
-文中の他社登録商標・商標・記載されている会社名、システム名、製品名は各社の登録商標または商標です。  
+##他社商標について
+文中に記載されている会社名、システム名、製品名は各社の登録商標または商標です。  
 なお、本文中では、「™」、「®」は明記しておりません。
