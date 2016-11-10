@@ -1,12 +1,12 @@
-PDF Formcalc Attack
+PDF FormCalc Attack
 ====
 
 ## 脆弱性概要
-「PDF Formcalc Attack」はAdobe社が開発した演算言語であるFormcalcを利用した攻撃手法で、
+「PDF FormCalc Attack」はAdobe社が開発した演算言語であるFormCalcを利用した攻撃手法で、
 APPSEC EU 2015でAlexander Inführ氏によって公開されました。  
 [https://2015.appsec.eu/wp-content/uploads/2015/09/owasp-appseceu2015-infuhr.pdf](https://2015.appsec.eu/wp-content/uploads/2015/09/owasp-appseceu2015-infuhr.pdf)
 
-攻撃の要点はFormcalcを利用すると、PDFファイルがアップロードされているオリジンで任意のリクエストを発行できることです。  
+攻撃の要点はFormCalcを利用すると、PDFファイルがアップロードされているオリジンで任意のリクエストを発行できることです。  
 上記を悪用することで、被害者ユーザーのCookieやCSRF対策用トークンを付与したリクエストを送信することが可能となり、攻撃者のサイトを閲覧したユーザーの権限で、任意のコードが特定の製品で実行される可能性があります。
 
 攻撃を受ける可能性があるユーザーの条件は以下です。  
