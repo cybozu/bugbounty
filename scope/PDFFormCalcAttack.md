@@ -43,6 +43,7 @@ Microsoft Internet ExplorerもしくはMozilla Firefoxをご利用中のお客�
 * [Firefox のプラグインを使用するには](https://support.mozilla.org/ja/kb/use-plugins-play-audio-video-games)
 
 ## 参考資料
+* [JVNTA#94087669 細工された PDF による情報詐取について](https://jvn.jp/ta/JVNTA94087669/)
 * [Hack Patch!-PDF特殊機能（FormCalc編）](https://shhnjk.blogspot.jp/2016/10/pdfformcalc.html)  
 * [InsertScript-Multiple PDF Vulnerabilities - Text and Pictures on Steroids](http://insert-script.blogspot.jp/2014/12/multiple-pdf-vulnerabilites-text-and.html)
 
