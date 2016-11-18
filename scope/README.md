@@ -13,5 +13,6 @@
 
 ## 認定対象外の脆弱性
 * [CSV Excel Macro Injection（CEMI）](CEMI.md)
+* [PDF FormCalc Attack](PDFFormCalcAttack.md)
 
 Copyright (C) Cybozu, Inc
