@@ -6,6 +6,8 @@
 * [Cross Site Request Forgery （CSRF）](CSRF.md)
 * [Sensitive Data Exposure](SensitiveDataExposure.md)
 * [Reflected File Download](ReflectedFileDownload.md)
+* [Vulnerability In Third-party Products](VulnerabilityInThird-partyProducts.md)
+* [Vulnerability In WordPress](VulnerabilityInWordPress.md)
 
 上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
 [脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
