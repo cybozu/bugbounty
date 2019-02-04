@@ -1,13 +1,21 @@
-サイボウズ脆弱性報奨金制度
-====
-このレポジトリは 「サイボウズ脆弱性報奨金制度」に関する詳細文書を保管することを目的としています。
-「サイボウズ脆弱性報奨金制度」の概要については、以下をご参照ください。
+脆弱性認定ガイドライン / Vulnerability Identification Guidelines
+===
 
-[サイボウズ脆弱性報奨金制度](http://cybozu.co.jp/company/security/bug-bounty/)
-
-## 脆弱性認定ガイドライン
-サイボウズが脆弱性情報を報告いただいた際に、脆弱性の認定可否を判断する際に使用するガイドラインを公開する物です。  
+サイボウズが脆弱性情報を報告いただいた際に、脆弱性の認定可否を判断する際に使用するガイドラインを公開するリポジトリです。  
 今後脆弱性情報を追記していくことを予定しています。  
-[scope](scope/)
+[Japanese](jp/scope/)  
+
+This document is a guideline to make a judgement about vulnerability.  
+We will add vulnerability information at a later date.  
+[English](en/scope)  
+
+## サイボウズ脆弱性報奨金制度 / Cybozu Bug Bounty Program
+サイボウズでは「脆弱性報奨金制度」を実施しています。  
+「サイボウズ脆弱性報奨金制度」の概要については、以下をご参照ください。  
+[サイボウズ脆弱性報奨金制度](http://cybozu.co.jp/company/security/bug-bounty/)  
+
+Cybozu organizes bug bounty program by ourself.  
+If you want to know about the program, please confirm below.  
+[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
 
 Copyright (C) Cybozu, Inc

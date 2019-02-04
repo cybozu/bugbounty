@@ -9,6 +9,7 @@
 * [Vulnerability In Third-party Products](VulnerabilityInThird-partyProducts.md)
 * [Vulnerability In WordPress](VulnerabilityInWordPress.md)
 * [X-Frame-Options:SAMEORIGIN の出力不備](x-frame-options.md)
+* [XSPA](XSPA.md)
 
 上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
 [脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
@@ -19,6 +20,5 @@
 * [CSV Excel Macro Injection（CEMI）](CEMI.md)
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
 * [Tabnabbing.md](Tabnabbing.md)
-* [Cross Site Port Attack (XSPA)](XSPA.md)
 
 Copyright (C) Cybozu, Inc

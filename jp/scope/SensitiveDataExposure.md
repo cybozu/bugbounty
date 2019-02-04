@@ -1,4 +1,4 @@
-Sensitive Data Exposure
+センシティブな情報の漏洩
 ====
 
 ## 概要
