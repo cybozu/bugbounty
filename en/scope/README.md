@@ -19,6 +19,6 @@ Detailed identification conditions will be added at a later date.
 ## What Are NOT Identified as Vulnerabilities
 * [CSV Excel Macro Injection(CEMI)](CEMI.md)
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
-* [Tabnabbing.md](Tabnabbing.md)
+* [Tabnabbing](Tabnabbing.md)
 
 Copyright (C) Cybozu, Inc
