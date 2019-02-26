@@ -4,11 +4,13 @@
 
 ## 認定対象の脆弱性
 * [Cross Site Request Forgery （CSRF）](CSRF.md)
-* [Sensitive Data Exposure](SensitiveDataExposure.md)
+* [センシティブな情報の漏洩](SensitiveDataExposure.md)
 * [Reflected File Download](ReflectedFileDownload.md)
-* [Vulnerability In Third-party Products](VulnerabilityInThird-partyProducts.md)
-* [Vulnerability In WordPress](VulnerabilityInWordPress.md)
+* [サードパーティ製品の脆弱性](VulnerabilityInThird-partyProducts.md)
+* [WordPress の脆弱性](VulnerabilityInWordPress.md)
 * [X-Frame-Options:SAMEORIGIN の出力不備](x-frame-options.md)
+* [Content Spoofing](ContentSpoofing.md)
+* [DoS](DoS.md)
 
 上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
 [脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
@@ -18,7 +20,7 @@
 ## 認定対象外の脆弱性
 * [CSV Excel Macro Injection（CEMI）](CEMI.md)
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
-* [Tabnabbing.md](Tabnabbing.md)
+* [Tabnabbing](Tabnabbing.md)
 * [Cross Site Port Attack (XSPA)](XSPA.md)
 
 Copyright (C) Cybozu, Inc
