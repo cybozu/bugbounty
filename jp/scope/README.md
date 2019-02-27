@@ -11,7 +11,6 @@
 * [X-Frame-Options:SAMEORIGIN の出力不備](x-frame-options.md)
 * [Content Spoofing](ContentSpoofing.md)
 * [DoS](DoS.md)
-* [Webブラウザーのリソースに起因する問題](BrowserResources.md)
 
 上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
 [脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
@@ -23,5 +22,6 @@
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
 * [Tabnabbing](Tabnabbing.md)
 * [Cross Site Port Attack (XSPA)](XSPA.md)
+* [Webブラウザーのリソースに起因する問題](BrowserResources.md)
 
 Copyright (C) Cybozu, Inc
