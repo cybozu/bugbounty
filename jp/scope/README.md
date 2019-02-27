@@ -10,7 +10,7 @@
 * [WordPress の脆弱性](VulnerabilityInWordPress.md)
 * [X-Frame-Options:SAMEORIGIN の出力不備](x-frame-options.md)
 * [Content Spoofing](ContentSpoofing.md)
-* [DoS](DoS.md)
+* [Denial of Service（DoS）](DoS.md)
 
 上記以外に認定対象としている脆弱性については、以下のドキュメントを参照ください。  
 [脆弱性情報ハンドリングポリシー](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
