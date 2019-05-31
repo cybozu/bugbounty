@@ -22,7 +22,7 @@ Cases in which the following information may be potentially leaked due to produc
 
 In addition, cases in which processing related error messages (stack traces, etc.) are displayed on screens shall be similarly handled as vulnerabilities.
 
-## Reason This Is Not Identified as a Vulnerability
+## Exceptions (Cases Where This Is Not Identified as a Vulnerability)
 Cases in which the following information is leaked shall not be handled as a vulnerability as the information itself has been determined to not lead to an attack directly: However, this does not necessarily hold true to cases in which the specific attack method is clear.
 
 * Local IP addresses in a data center
