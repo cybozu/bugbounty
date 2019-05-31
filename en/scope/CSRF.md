@@ -14,7 +14,7 @@ Processes that involve data modifications require protection against CSRF.
 * User login
 * APIs for changing data on servers and user authentication
 
-## Reason This Is Not Identified as a Vulnerability
+## Exceptions (Cases Where This Is Not Identified as a Vulnerability)
 The following processes involve updating data on servers. However, since the damage from the attack can be difficult to predict, we do not identify these processes as vulnerability.
 
 * Logout process
