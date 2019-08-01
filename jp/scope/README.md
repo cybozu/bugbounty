@@ -23,6 +23,6 @@
 * [Tabnabbing](Tabnabbing.md)
 * [Cross Site Port Attack (XSPA)](XSPA.md)
 * [Webブラウザーのリソースに起因する問題](BrowserResources.md)
-* [Denial of Service（DoS）](DoS.md)
+* [大量のデータやリクエストを必要とするDenial of Service（DoS）](DoS.md)
 
 Copyright (C) Cybozu, Inc
