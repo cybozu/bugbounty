@@ -10,7 +10,7 @@ Yes
 Anywhere users' input is placed as output
 
 ## Exceptions (Cases Where This Is Not Identified as a Vulnerability)
-Self-XSS via Referrer header or using a rich text editor is out of scope of this identification.
+Self-XSS is out of scope of this identification.
 Also, a case that we consider to have no impact is not identified as a vulnerability.
 
 ## References
