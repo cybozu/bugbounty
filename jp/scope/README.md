@@ -20,7 +20,7 @@
 詳細な認定条件については、今後追加を予定しております。
 
 ## 認定対象外の脆弱性
-* [CSV Excel Macro Injection（CEMI）](CEMI.md)
+* [CSV Injection](CSVInjection.md)
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
 * [Tabnabbing](Tabnabbing.md)
 * [Cross Site Port Attack (XSPA)](XSPA.md)
