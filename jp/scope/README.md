@@ -8,7 +8,7 @@
 * [センシティブな情報の漏洩](SensitiveDataExposure.md)
 * [Reflected File Download](ReflectedFileDownload.md)
 * [サードパーティ製品の脆弱性](VulnerabilityInThird-partyProducts.md)
-* [WordPress の脆弱性](VulnerabilityInWordPress.md)
+* [WordPressの脆弱性](VulnerabilityInWordPress.md)
 * [X-Frame-Options:SAMEORIGIN の出力不備](x-frame-options.md)
 * [Content Spoofing](ContentSpoofing.md)
 * [XSS（クロスサイトスクリプティング）](XSS.md)
