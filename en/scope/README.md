@@ -21,7 +21,7 @@ For other identified vulnerabilities, see the following document:
 Detailed identification conditions will be added at a later date.
 
 ## What Are NOT Identified as Vulnerabilities
-* [CSV Excel Macro Injection(CEMI)](CEMI.md)
+* [CSV Injection](CSVInjection.md)
 * [PDF FormCalc Attack](PDFFormCalcAttack.md)
 * [Tabnabbing](Tabnabbing.md)
 * [Cross Site Port Attack (XSPA)](XSPA.md)
