@@ -28,6 +28,5 @@ CSV Injection is not handled as a vulnerability for the Bug Bounty Program. The 
 
 ## References
 
-The description of the "Vulnerability Overview" section is an excerpt from the following source:
-
+The description of the "Vulnerability Overview" section is an excerpt from the following source:  
 [CSV Injection](https://owasp.org/www-community/attacks/CSV_Injection)
