@@ -12,9 +12,15 @@ This document provides the identification policy for the X-Frame-Options: SAMEOR
 ## Is This Identified as a Vulnerability?
 Yes
 
+## Exceptions (Cases Where This Is Not Identified as a Vulnerability)
+### Regarding Vulnerabilities of Web Pages
+Criteria to identify a vulnerability differ between Web pages and products.  
+Therefore, even if `X-Frame-Options: SAMEORIGIN` is not provided for a response header on Web pages listed in the "Home page" of the following URL, we do not identified the leakage as a vulnerability.  
+[https://cybozu.co.jp/products/bug-bounty/](https://cybozu.co.jp/products/bug-bounty/)
 ## Points That Need Protection Against This Vulnerability (Scope)
 Processes in which clickjacking may lead to breaches of confidentiality, integrity, and availability.  
 However, this does not apply to processes that are expected to have no impact.
+
 ## References
 [Clickjacking](https://www.owasp.org/index.php/Clickjacking)  
 [X-Frame-Options Response Header](https://developer.mozilla.org/ja/docs/Web/HTTP/X-Frame-Options)  
