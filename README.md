@@ -13,8 +13,8 @@ This document is a rule for our bugbounty program.
 サイボウズ脆弱性報奨金制度において報告いただいた脆弱性情報の認定可否を判断する際に使用するガイドラインです。  
 This document is a guideline to make a judgement about vulnerability.  
 
-- [Japanese](scope/jp)  
-- [English](scope/en)  
+- [Japanese](guideline/jp)  
+- [English](guideline/en)  
 
 
 # 脆弱性報奨金制度について
