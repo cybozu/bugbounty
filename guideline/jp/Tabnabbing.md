@@ -23,12 +23,12 @@ Tabnabbing攻撃の手法は、スクリプトにより、非アクティブの�
 * 攻撃による被害は限定的であり、リスクを許容できると判断している
 
 参考までに、Google社では本現象（Phishing by navigating browser tabs）を報奨金の対象としない方針を示しています。  
-[https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener](https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener)
+[https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
 
 ## 参考資料
 
 * [Tabnabbing: A New Type of Phishing Attack](http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/)
-* [Phishing by navigating browser tabs（Google Bughunter University）](https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener)
+* [Phishing by navigating browser tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
 
 ## 他社商標について
 文中に記載されている会社名、システム名、製品名は各社の登録商標または商標です。  

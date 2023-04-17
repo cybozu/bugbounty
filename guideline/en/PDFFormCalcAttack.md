@@ -14,7 +14,7 @@ Users that meet any of the following conditions may be affected by the attack:
 1. Using applications with a function for uploading PDF files  
 2. Have Adobe PDF Reader Plugin enabled on Microsoft Internet Explorer or Mozilla Firefox
 
-The issue in which send cross-origin requests can be sent (CVE-2014-8453) has been fixed by Adobe.  
+The issue in which send cross-origin requests can be sent (CVE-2014-8453,CVE-2022-28244) has been fixed by Adobe.  
 Nevertheless, in Adobe's opinion, sending requests within the same origin is not regarded as vulnerability.  
 
 > From our perspective, website owners must realize that PDF is active content, and serving user-uploaded/malicious PDFs from a non-throwaway domain is effectively an XSS (just like hosting an arbitrary/malicious HTML).

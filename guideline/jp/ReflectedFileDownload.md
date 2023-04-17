@@ -31,7 +31,7 @@ Oren Hafif氏によれば、RFDの攻撃が成立する要件として以下の3
 なお、ダウンロード時にファイルの内容を書き換えることが可能な RFD については、新規の脆弱性として認定いたします。
 
 同一のロジックが別の処理で利用され、複数の箇所で脆弱性が顕在化しているなど、いくつかのケースにおいては類似の脆弱性として扱わせていただく場合があります。  
-詳細は[報奨金獲得に関するガイドライン](https://cybozu.co.jp/company/security/bug-bounty/guideline.pdf)をご参照ください。
+詳細は[脆弱性報奨金制度ルールブック](https://github.com/cybozu/bugbounty/blob/master/rulebook/jp/rulebook.md)をご参照ください。
 
 ## 参考資料
 RFDの攻撃が成立する要件についての記述は、下記資料の日本語抄訳となります。

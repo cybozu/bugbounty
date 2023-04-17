@@ -17,7 +17,7 @@ If updated guidelines include changes to identification criteria, the new criter
 * [Escape Sequence Injection](escape-sequence-injection.md)
 
 For other identified vulnerabilities, see the following document:  
-[Vulnerability Information Handling Policy](http://www.slideshare.net/cybozucommunity/ss-30074325/18)  
+[Vulnerability Information Handling Policy](https://cybozu.co.jp/company/security-policy/en/)  
 
 Detailed identification conditions will be added at a later date.
 

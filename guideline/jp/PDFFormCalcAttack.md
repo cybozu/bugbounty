@@ -14,7 +14,7 @@ APPSEC EU 2015でAlexander Inführ氏によって公開されました。
 1. 任意のpdfをアップロード可能な機能を有するアプリケーションを利用している  
 2. Adobe PDF Reader Plugin を Microsoft Internet ExplorerもしくはMozilla Firefoxで有効にしている  
 
-クロスオリジンでリクエストを送信できる問題（CVE-2014-8453）はAdobe社によって修正されています。  
+クロスオリジンでリクエストを送信できる問題（CVE-2014-8453、CVE-2022-28244）はAdobe社によって修正されています。  
 但し同一オリジン内でリクエストを送信できる点については、Adobe社より、脆弱性としない見解をいただいています。  
 
 > From our perspective, website owners must realize that PDF is active content, and serving user-uploaded/malicious PDFs from a non-throwaway domain is effectively an XSS (just like hosting an arbitrary/malicious HTML). 
@@ -47,6 +47,6 @@ Microsoft Internet ExplorerもしくはMozilla Firefoxをご利用中のお客�
 * [Hack Patch!-PDF特殊機能（FormCalc編）](https://shhnjk.blogspot.jp/2016/10/pdfformcalc.html)  
 * [InsertScript-Multiple PDF Vulnerabilities - Text and Pictures on Steroids](http://insert-script.blogspot.jp/2014/12/multiple-pdf-vulnerabilites-text-and.html)
 
-##他社商標について
+## 他社商標について
 文中に記載されている会社名、システム名、製品名は各社の登録商標または商標です。  
 なお、本文中では、「™」、「®」は明記しておりません。

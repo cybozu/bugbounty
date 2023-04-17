@@ -23,12 +23,12 @@ We have adopted the policy of not identifying "Tabnabbing" attacks as a vulnerab
 - We have determined that the impact of the attack is limited and the risk is acceptable.
 
 For reference, Google indicates a policy of excluding this case (phishing by navigating browser tabs) from rewards.
-[https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener](https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener)
+[https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
 
 ## References
 
 * [Tabnabbing: A New Type of Phishing Attack](http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/)
-* [Phishing by navigating browser tabs（Google Bughunter University）](https://sites.google.com/site/bughunteruniversity/nonvuln/phishing-with-window-opener)
+* [Phishing by navigating browser tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
 
 ## Copyrights and Trademarks of Other Companies
 

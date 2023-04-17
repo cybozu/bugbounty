@@ -5,9 +5,9 @@ If the X-Frame-Options: SAMEORIGIN response header is not provided for an API re
 This document provides the identification policy for the X-Frame-Options: SAMEORIGIN output in API responses.
 
 ### What Is Clickjacking
-> Clickjacking is an attack technique that tricks users into clicking contents on a web page different from what the users perceives they are clicking on. Clicking on a seemingly innocuous web page from a malicious site may result in revealing user privacy information or forcing users to register information without their awareness.
+> Some websites provide login functions that can only be used by logged-in users. If such functions can be used only with mouse operation, users may be forced to execute unintended functions by browsing and operating a crafted external site. Such a problem is called a "clickjacking vulnerability," and an attack that exploits the problem is called a "clickjacking attack".
 
-(This is an abridged translation of some parts of the document at: https://www.ipa.go.jp/files/000026479.pdf)
+(This is an abridged translation of some parts of the document at: https://www.ipa.go.jp/security/vuln/websecurity/clickjacking.html)
 
 ## Is This Identified as a Vulnerability?
 Yes
@@ -24,4 +24,3 @@ However, this does not apply to processes that are expected to have no impact.
 ## References
 [Clickjacking](https://www.owasp.org/index.php/Clickjacking)  
 [X-Frame-Options Response Header](https://developer.mozilla.org/ja/docs/Web/HTTP/X-Frame-Options)  
-[IPA Technical Watch: Reports on Clickjacking (Tricking Users into Disclosing Sensitive Information Without Their Awareness)](https://www.ipa.go.jp/about/technicalwatch/20130326.html)

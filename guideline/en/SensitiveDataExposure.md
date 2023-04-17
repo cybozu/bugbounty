@@ -50,5 +50,4 @@ Therefore, even if the administrator's user name or email address is leaked on W
 
 ## References
 
-* [OWASP Top 10 for 2013 A6 – Sensitive Data Exposure](http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf)
-* [Disclosed Information from Error Messages](https://www.ipa.go.jp/security/awareness/vendor/programmingv1/b09_03.html)
+* [OWASP Top Ten 2017 | A3:2017-Sensitive Data Exposure](https://owasp.org/www-project-top-ten/2017/A3_2017-Sensitive_Data_Exposure)

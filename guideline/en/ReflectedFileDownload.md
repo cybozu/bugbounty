@@ -28,7 +28,7 @@ In addition, RFD vulnerabilities that can overwrite the contents of a file durin
 
 Certain cases may be handled as similar cases of a vulnerability. For example, different processes that use the same logic expose a vulnerability in several places.  
 
-For more information, see []"Cybozu Bug Bounty Program Rulebook"](https://cybozu.co.jp/company/security/bug-bounty/guideline.pdf).  
+For more information, see ["Cybozu Bug Bounty Program Rulebook"](https://github.com/cybozu/bugbounty/blob/master/rulebook/en/rulebook.md).  
 
 ## References
 
