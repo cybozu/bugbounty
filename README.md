@@ -1,6 +1,7 @@
 サイボウズ脆弱性報奨金制度 / Cybozu Bug Bounty Program
 ===
 このリポジトリでは、サイボウズ脆弱性報奨金制度に関するドキュメントを公開しています。  
+Documents related to Cybozu Bug Bounty Program are available in this repository.
 
 # ルールブック / Rulebook
 脆弱性報奨金制度に関するルールの詳細を記載しています。  
@@ -17,7 +18,7 @@ This document is a guideline to make a judgement about vulnerability.
 - [English](guideline/en)  
 
 
-# 脆弱性報奨金制度について
+# 脆弱性報奨金制度について / About Bug Bounty Program  
 サイボウズでは「脆弱性報奨金制度」を実施しています。  
 「サイボウズ脆弱性報奨金制度」の概要については、以下をご参照ください。  
 [サイボウズ脆弱性報奨金制度](http://cybozu.co.jp/company/security/bug-bounty/)  
@@ -25,3 +26,4 @@ This document is a guideline to make a judgement about vulnerability.
 Cybozu organizes bug bounty program by ourself.  
 If you want to know about the program, please confirm below.  
 [Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+
