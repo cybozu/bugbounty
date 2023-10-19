@@ -80,7 +80,7 @@ The reward amount to be paid is doubled if the option to donate is selected. For
 |XSS|100,000 to 400,000 Japanese Yen|50,000 to 200,000 Japanese Yen||
 |Injection (other than SQL injection)|50,000 to 350,000 Japanese Yen|40,000 to 200,000 Japanese Yen||
 |Deficiency in access control|200,000 to 800,000 Japanese Yen|50,000 to 400,000 Japanese Yen||
-|Vulnerability specific in a mobile app|10,000 to 2,000,000 Japanese Yen<br>(Scope: kintone Mobile)|10,000 to 2,000,000 Japanese Yen<br>(Scope: KUNAI, Mailwise Mobile, and Cybozu Office Mobile)||
+|Vulnerability specific in a mobile app|10,000 to 2,000,000 Japanese Yen<br>(Scope: kintone Mobile)|10,000 to 2,000,000 Japanese Yen<br>(Scope:Cybozu Office Mobile)||
 |Others|10,000 to 2,000,000 Japanese Yen|10,000 to 2,000,000 Japanese Yen|10,000 to 2,000,000 Japanese Yen|
 
 (\*1) including APIs integrated in each product
