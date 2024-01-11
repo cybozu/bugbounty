@@ -2,6 +2,7 @@ Cybozu Bug Bounty Program Rulebook
 ===
 # 0. Preface
 The Cybozu Bug Bounty Program (hereafter called "this program") is a system intended to early discover and remove zero-day vulnerabilities that might exist in services provided by Cybozu. Under this program, people who discover vulnerabilities and report them to us (hereafter called "reporters") will be paid a reward as a token of our gratitude for cooperating to help us improve the quality of our services.  
+In the event of any discrepancies between the Japanese version and the English version, the Japanese version shall prevail.
 
 # 1. Services That Are Applicable for Testing
 Please refer to the following page for the services that are subject to testing under this program. [https://cybozu.co.jp/products/bug-bounty/en/](https://cybozu.co.jp/products/bug-bounty/)  
@@ -110,6 +111,13 @@ https://cybozu.co.jp/products/bug-bounty/
 - Different programs in the identical product use the identical logic, function, and so forth, and thus they expose vulnerabilities.
 
 These rules do not apply if vulnerabilities with the same root cause are exposed in different products.
+
+### 6.2.2 Reports That Are Not Eligible for Rewards
+If a report meets any of the following criteria, we are generally unable to identify the report and provide payment for rewards.  
+1. Reports that include vulnerabilities listed in “What Are NOT Identified as Vulnerabilities” of [Vulnerability Identification Guidelines](https://github.com/cybozu/bugbounty/tree/master/guideline/en)
+2. Reports in which the specific threat or the service being reported is unknown (For example: a report in which output results from an automated program to scan vulnerabilities are simply pasted)
+
+However, even if a report meets the criterion 1 above, the report may be eligible for rewards, provided that we recognize the report as a crucial one. 
 
 ## 6.3 Delivery of Rewards
 
