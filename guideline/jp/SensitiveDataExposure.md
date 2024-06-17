@@ -43,10 +43,10 @@
 こちらは既知の問題として認識しております。  
 ただし、すべてのお客様に対して暗号化通信を強制する仕様は実装できないため、送信経路が暗号化されていない点については、脆弱性として認定いたしません。
 
-### Webページの脆弱性に関して
-Webページと製品では、脆弱性の認定基準が異なります。  
-そのため、下記URLの「ホームページ」で掲載されているWebページにおいて管理者のユーザー名やメールアドレスが漏洩していても、脆弱性としては扱いません。  
-[https://cybozu.co.jp/products/bug-bounty/](https://cybozu.co.jp/products/bug-bounty/)
+### Webサイトの脆弱性に関して
+Webサイトと製品では、脆弱性の認定基準が異なります。  
+そのため、下記URLの弊社Webサイトにおいて管理者のユーザー名やメールアドレスが漏洩していても、脆弱性としては扱いません。  
+[https://cybozu.co.jp/products/bug-bounty/#web-site](https://cybozu.co.jp/products/bug-bounty/#web-site)
 
 ## 参考資料
 
