@@ -95,7 +95,7 @@ The reward amount to be paid is doubled if the option to donate is selected. For
 |1|RCE or not|RCE|1,000,000 Japanese Yen (Fixed)|
 |||Other than RCE|20,000 Japanese Yen (Fixed)|
 
-For the list of applicable Web sites under this program, refer to "Applicable Products, Services, and Web Sites" mentioned below.  
+For the list of applicable Web sites under this program, refer to "Scope" mentioned below.  
 [https://cybozu.co.jp/en/company/products/bug-bounty/#product-service](https://cybozu.co.jp/en/company/products/bug-bounty/#product-service)
 
 ## 6.2 Supplementary Rules on Earing Rewards
