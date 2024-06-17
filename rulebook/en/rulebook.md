@@ -6,7 +6,9 @@ In the event of any discrepancies between the Japanese version and the English v
 
 # 1. Services That Are Applicable for Testing
 Please refer to the following URL for the services that are subject to testing under this program.
+
 [https://cybozu.co.jp/en/company/products/bug-bounty/#product-service](https://cybozu.co.jp/en/company/products/bug-bounty/#product-service)
+
 The latest versions of each service are covered by this program. To learn the details about our services, refer to the Web site of each product.
 
 # 2. Terms and Conditions on Reporting
