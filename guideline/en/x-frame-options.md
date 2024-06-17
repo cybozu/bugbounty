@@ -16,7 +16,7 @@ Yes
 ### Regarding Vulnerabilities of Web Pages
 Criteria to identify a vulnerability differ between Web pages and products.  
 Therefore, even if `X-Frame-Options: SAMEORIGIN` is not provided for a response header on Web pages listed in the "Web Sites" of the following URL, we do not identified the leakage as a vulnerability.  
-[https://cybozu.co.jp/products/bug-bounty/](https://cybozu.co.jp/products/bug-bounty/)
+[https://cybozu.co.jp/en/company/products/bug-bounty/](https://cybozu.co.jp/en/company/products/bug-bounty/)
 
 ## Points That Need Protection Against This Vulnerability (Scope)
 Processes in which clickjacking may lead to breaches of confidentiality, integrity, and availability.  
