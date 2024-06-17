@@ -5,7 +5,8 @@
 なお、日本語版と英語版に内容の差異がある場合は、日本語版の記述を優先します。
 
 # 1. 検証対象サービス
-本制度の検証対象となるサービスは、次のページをご覧ください。[https://cybozu.co.jp/products/bug-bounty/](https://cybozu.co.jp/products/bug-bounty/)  
+本制度の検証対象となるサービスは、次のWebサイトをご覧ください。
+[https://cybozu.co.jp/products/bug-bounty/#product-service](https://cybozu.co.jp/products/bug-bounty/#product-service)   
 各サービスの最新バージョンを、本制度の対象といたします。サービスの詳細につきましては、各製品のWebサイトをご覧ください。
 
 # 2. 報告規約
@@ -94,7 +95,7 @@ https://cybozu.co.jp/company/security-policy/
 |||RCE以外|2万円(固定)|
 
 報奨金制度対象のWebサイトは以下の「対象となる製品・サービスおよびWebサイト」をご確認ください。  
-https://cybozu.co.jp/products/bug-bounty/
+[https://cybozu.co.jp/products/bug-bounty/#product-service](https://cybozu.co.jp/products/bug-bounty/#product-service)
 
 ## 6.2	報奨金獲得ルールの補足
 |項目|概要|ルール|
@@ -200,7 +201,7 @@ https://cybozu.co.jp/products/bug-bounty/
 
 # 8. 謝辞
 本制度に基づき脆弱性を発見し、報告いただいた方には、弊社サービスの品質向上にご協力いただいた感謝を込めて、報告者のお名前を「サービスの品質向上にご協力いただいた皆様」ページに掲載いたします。謝辞の掲載条件及び掲載時期の詳細は、以下のページをご覧ください。
-https://cybozu.co.jp/products/bug-bounty/specialthanks/
+[https://cybozu.co.jp/products/bug-bounty/specialthanks/](https://cybozu.co.jp/products/bug-bounty/specialthanks/)
 
 # 9. 本ルールブックの変更
 サイボウズは、事前に公表することなく、本ルールブックの変更を行うことがあります。
@@ -208,4 +209,4 @@ https://cybozu.co.jp/products/bug-bounty/specialthanks/
 
 # 10. 検証環境について
 検証環境提供プログラムページをご覧ください。
-https://cybozu.co.jp/products/bug-bounty/#TestingEnvironmentProgram
+[https://cybozu.co.jp/products/testing-environment/](https://cybozu.co.jp/products/testing-environment/)
