@@ -17,10 +17,10 @@ X-Frame-Options:SAMEORIGIN の出力不備
 ただし、影響がないと考えられる箇所に関しては、この限りではありません。
 
 ## 例外として認定しないケース
-### Webページの脆弱性に関して
-Webページと製品では、脆弱性の認定基準が異なります。  
-そのため、下記URLの「ホームページ」で掲載されているWebページにおいて、レスポンスヘッダに`X-Frame-Options: SAMEORIGIN`が付与されていなくても、脆弱性としては扱いません。  
-[https://cybozu.co.jp/products/bug-bounty/](https://cybozu.co.jp/products/bug-bounty/)
+### Webサイトの脆弱性に関して
+Webサイトと製品では、脆弱性の認定基準が異なります。  
+そのため、下記URLの弊社Webサイトにおいて、レスポンスヘッダに`X-Frame-Options: SAMEORIGIN`が付与されていなくても、脆弱性としては扱いません。  
+[https://cybozu.co.jp/products/bug-bounty/#web-site](https://cybozu.co.jp/products/bug-bounty/#web-site)
 
 ## 参考資料
 [Clickjacking](https://www.owasp.org/index.php/Clickjacking)  
