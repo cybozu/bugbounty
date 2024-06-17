@@ -5,7 +5,8 @@ The Cybozu Bug Bounty Program (hereafter called "this program") is a system inte
 In the event of any discrepancies between the Japanese version and the English version, the Japanese version shall prevail.
 
 # 1. Services That Are Applicable for Testing
-Please refer to the following page for the services that are subject to testing under this program. [https://cybozu.co.jp/products/bug-bounty/en/](https://cybozu.co.jp/products/bug-bounty/)  
+Please refer to the following URL for the services that are subject to testing under this program.
+[https://cybozu.co.jp/en/company/products/bug-bounty/#product-service](https://cybozu.co.jp/en/company/products/bug-bounty/#product-service)
 The latest versions of each service are covered by this program. To learn the details about our services, refer to the Web site of each product.
 
 # 2. Terms and Conditions on Reporting
@@ -94,7 +95,7 @@ The reward amount to be paid is doubled if the option to donate is selected. For
 |||Other than RCE|20,000 Japanese Yen (Fixed)|
 
 For the list of applicable Web sites under this program, refer to "Applicable Products, Services, and Web Sites" mentioned below.  
-https://cybozu.co.jp/products/bug-bounty/
+[https://cybozu.co.jp/en/company/products/bug-bounty/#product-service](https://cybozu.co.jp/en/company/products/bug-bounty/#product-service)
 
 ## 6.2 Supplementary Rules on Earing Rewards
 |No.|Summary|Rules|
@@ -200,7 +201,7 @@ Reporters can specify their display name in the ranking, or can choose to be ano
 
 # 8. Acknowledgments
 Names of reporters who find and report vulnerabilities based on this program will be listed on the "Special thanks to contributors who have enhanced our service quality" page in token of our gratitude. Please refer to the following page for the details on who can receive the acknowledgement and when contributors are listed.
-https://cybozu.co.jp/products/bug-bounty/specialthanks/
+[https://cybozu.co.jp/products/bug-bounty/specialthanks/](https://cybozu.co.jp/products/bug-bounty/specialthanks/)
 
 # 9. Amendment of Rulebook
 Cybozu shall be entitled to amend this Rulebook without prior public notification.
@@ -208,4 +209,4 @@ When amending a key portion of this Rulebook, Cybozu shall provide the participa
 
 # 10. Testing Environment
 Refer to the Bug Bounty Testing Environment Program page.
-https://cybozu.co.jp/products/bug-bounty/#TestingEnvironmentProgram
+[https://cybozu.co.jp/en/company/products/testing-environment/](https://cybozu.co.jp/en/company/products/testing-environment/)
