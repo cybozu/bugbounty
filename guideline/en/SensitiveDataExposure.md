@@ -45,8 +45,8 @@ However, we cannot force all customers to enable encryption for communication, a
 
 ### Regarding Vulnerabilities of Web Sites
 Criteria to identify a vulnerability differ between Web Sites and products. 
-Therefore, even if the administrator's user name or email address is leaked on Web Sites listed in the "Web Sites" of the following URL, we do not identified the leakage as a vulnerability.   
-[https://cybozu.co.jp/products/bug-bounty/en/](https://cybozu.co.jp/products/bug-bounty/en/)
+Therefore, even if the administrator's user name or email address is leaked on the "Web Sites" in the following URL, we do not identified the leakage as a vulnerability.   
+[https://cybozu.co.jp/en/company/products/bug-bounty/#web-site](https://cybozu.co.jp/en/company/products/bug-bounty/#web-site)
 
 ## References
 
