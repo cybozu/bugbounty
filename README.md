@@ -21,9 +21,9 @@ This document is a guideline to make a judgement about vulnerability.
 # 脆弱性報奨金制度について / About Bug Bounty Program  
 サイボウズでは「脆弱性報奨金制度」を実施しています。  
 「サイボウズ脆弱性報奨金制度」の概要については、以下をご参照ください。  
-[サイボウズ脆弱性報奨金制度](http://cybozu.co.jp/company/security/bug-bounty/)  
+[サイボウズ脆弱性報奨金制度](https://cybozu.co.jp/products/bug-bounty/) 
 
 Cybozu organizes bug bounty program by ourself.  
 If you want to know about the program, please confirm below.  
-[Cybozu Bug Bounty Program](https://cybozu.co.jp/products/bug-bounty/en/)  
+[Cybozu Bug Bounty Program](https://cybozu.co.jp/en/company/products/bug-bounty/)
 
