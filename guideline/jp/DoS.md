@@ -13,8 +13,8 @@
 ## 補足事項
 ### 大量のデータやリクエストを必要としないDenial of Service（DoS）
 大量のデータやリクエストを必要とせず、かつクラウドサービスの可用性の侵害につながる挙動は認定する場合があります。
-具体的な対象は、下記URLの「製品・サービス」にあるクラウドサービスです。  
-https://cybozu.co.jp/products/bug-bounty/
+具体的な対象は、弊社Webサイトの「製品・サービス」にあるクラウドサービスです。  
+[https://cybozu.co.jp/products/bug-bounty/#product-service](https://cybozu.co.jp/products/bug-bounty/#product-service)
 
 影響が小さいと考えられるため、次の挙動は脆弱性として認定しません。
 * パッケージ製品のみに影響を及ぼす挙動
