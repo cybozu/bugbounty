@@ -20,7 +20,7 @@ Those who fulfill all conditions below can earn a reward for reporting vulnerabi
 - You agree with the Terms and Conditions for Cybozu Bug Bounty Program.
 
 You can find the Terms and Conditions for Cybozu Bug Bounty Program at the following URL:  
-[https://cybozu.co.jp/products/bug-bounty/pdf/terms.pdf](https://cybozu.co.jp/en/company/assets/pdf/terms_en.pdf)
+[https://cybozu.co.jp/en/company/assets/pdf/terms_en.pdf](https://cybozu.co.jp/en/company/assets/pdf/terms_en.pdf)
 
 # 3. Communication
 ## 3.1 Contact Us
