@@ -32,9 +32,9 @@ https://cy-bugbounty.cybozu.com/k/
 Reporting Site Account Request Form:  
 https://cy-psirt.form.kintoneapp.com/public/d16726f3de2ce25f846c43603fe7260c80a5adbc1ed878a7fcd66f8b671be525   
 
-As for other questions, you can also contact us at our e-mail address.  
-E-mail:  
-productsecurity@cybozu.co.jp
+As for other questions, please contact us using the form below.  
+Inquiry Form:  
+https://cy-psirt.form.kintoneapp.com/public/inquery  
 
 ## 3.2 PGP Key
 When reporters contact Cy-PSIRT, they can use a PGP key. The public key information is available at the following:  
