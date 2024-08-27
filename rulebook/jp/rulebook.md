@@ -31,9 +31,9 @@ https://cy-bugbounty.cybozu.com/k/
 報告用サイトアカウントお申し込みフォーム：  
 https://cy-psirt.form.kintoneapp.com/public/d16726f3de2ce25f846c43603fe7260c80a5adbc1ed878a7fcd66f8b671be525   
 
-その他のお問い合わせはメールでも受け付けます。  
-メール：  
-productsecurity@cybozu.co.jp
+その他のお問い合わせは以下のフォームよりお問い合わせください。  
+脆弱性報告を除くお問い合わせフォーム：  
+https://cy-psirt.form.kintoneapp.com/public/inquery  
 
 ## 3.2	PGP鍵
 報告者がCy-PSIRTに連絡する際には、PGP鍵を利用できます。公開鍵の情報は以下をご覧ください。  
