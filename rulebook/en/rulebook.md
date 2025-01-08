@@ -57,7 +57,8 @@ A vulnerability reported from a reporter to Cy-PSIRT is evaluated by using the f
 \*2 When Cy-PSIRT notifies a result of the investigation, we mention the reply due date. Even if we do not receive a reply from the reporter by the due date, the response process is also treated as completed.
 
 At the time of notifying the reporter of the result, the evaluation and the payment amount may vary.  
-When the response process is completed, the amount of the reward is determined and the payment amount is not changed thereafter.
+The calculated award amount is finalized once the final step of the response process has been completed.  Reporting additional behaviors arising from the same cause will not result in additional award payments. 
+The exception to this rule is if the additional behaviors are deemed by Cybozu to have a significant impact, in which case a re-evaluation may be performed. A re-evaluation may result in the reporter receiving an additional amount equal to the difference between the original award and the award for the additional report.
 
 ## 5.2 Order in Which Inquiries to Be Accepted
 As for received inquiries, we accept them in the order of receipt.
