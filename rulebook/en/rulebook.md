@@ -198,7 +198,7 @@ Reporters can specify their display name in the ranking, or can choose to be ano
 
 ## 7.4 Others
 
-- Earned points expire either at the end of the month when an account of the reporting site is deleted or at the end of three years after they have been earned, and cannot be used thereafter.
+- Points you have earned will expire if (1) you delete your Reporting Site account; or (2) when three years have passed since the points were earned. In the case of (2), points will expire gradually in the order they were acquired starting from the end of the month after three years have passed. Points that have expired cannot be redeemed. 
 - This point system is subject to change in accordance with "9. Amendment of Rulebook". The point system may also be suspended or terminated for our operational reasons. In the case of suspension or termination, we will provide the relevant information for an appropriate time period and in an appropriate manner, in light of the impact of the suspension or termination and the status of the operation of this point system.
 
 # 8. Acknowledgments
