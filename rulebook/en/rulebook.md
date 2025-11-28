@@ -123,9 +123,18 @@ However, even if a report meets the criterion 1 above, the report may be eligibl
 
 ## 6.3 Delivery of Rewards
 
-We transfer the reward in cash at the end of the second month after the completion of our response process.  
-Reporters must send their bank details to Cy-PSIRT. Please check the Terms and Conditions as for the list of banks you can designate.  
-The payment may take a long time or fail to be completed (a) if we do not receive bank details or (b) even if we make a bank transfer according to the provided bank details but the reporter cannot receive the reward.
+We will transfer the reward (bounty) to the reporter’s nominated account by month end two months after the entire response process has been completed*.  
+The reporter must notify Cy-PSIRT of their nominated payee account details.  
+Please check Article 3 of the Terms and Conditions for Cybozu Bug Bounty Program for information on payee accounts that can be nominated.
+
+Payment may take a long time or fail to be completed if:  
+- The reporter does not notify us of their payee account details; or
+- The reporter does not receive the reward even though we transferred the money in accordance with the payee account details notified to us by the reporter.
+
+In the case of overseas transfers, even once we have completed the transfer process, it may still take several days to a week or more for the money to be deposited into the payee's account due to circumstances at the intermediary bank the transaction goes via, or the financial institution, or country, to which the money is being transferred.
+
+\*Click here to see more information on completing the response process.  
+https://github.com/cybozu/bugbounty/blob/master/rulebook/en/rulebook.md#51-response-process
 
 ## 6.4 Donating Rewards
 Reporters can donate earned reward to an OSS community selected by us, instead of claiming the reward. If reporters choose to donate their reward, Cybozu also will donate the same amount as their reward to the OSS community. However, you must accept each reward in its entirety or donate it. You cannot split the reward between yourself and a donation.
