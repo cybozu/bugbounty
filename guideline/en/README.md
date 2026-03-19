@@ -3,6 +3,9 @@ Vulnerability Identification Guidelines
 This is a repository for Cybozu to publish the guidelines that are used in vulnerability identification when we receive reports on vulnerability information.  
 If updated guidelines include changes to identification criteria, the new criteria are applied to reports that are received after the guidelines written in Japanese are published.
 
+## Base Guidelines
+* [Base Guidelines](BaseGuideline.md)
+
 ## What Have Been Identified as Vulnerabilities
 
 * [Cross Site Request Forgery (CSRF)](CSRF.md)
