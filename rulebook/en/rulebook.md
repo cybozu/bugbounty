@@ -77,14 +77,14 @@ The amount of the reward is determined according to the following rules:
 The reward amount to be paid is doubled if the option to donate is selected. For details, refer to "6.4 Donating Rewards".
 
 ### Products and Services
-||kintone(\*1)<br>cybozu.com Administration(\*1)<br> cybozu.com Store<br>Marketplace|Garoon(\*1)<br>Mailwise<br>Office|cybozu.com operational base<br>Client Certificate Authentication<br>Cybozu Desktop 2 (for Windows)|
-|:--|:--|:--|:--|
-|RCE|2,000,000 Japanese Yen (Fixed)|2,000,000 Japanese Yen (Fixed)|2,000,000 Japanese Yen (Fixed)|
-|SQL injection|400,000 to 1,600,000 Japanese Yen|100,000 to 1,000,000 Japanese Yen||
-|XSS|100,000 to 400,000 Japanese Yen|50,000 to 200,000 Japanese Yen||
-|Deficiency in access control|200,000 to 800,000 Japanese Yen|50,000 to 400,000 Japanese Yen||
-|Vulnerability specific in a mobile app|10,000 to 2,000,000 Japanese Yen<br>(Scope: kintone Mobile)|10,000 to 2,000,000 Japanese Yen<br>(Scope: Cloud edition Garoon Mobile, Cybozu Office Mobile)||
-|Others|10,000 to 2,000,000 Japanese Yen|10,000 to 2,000,000 Japanese Yen|10,000 to 2,000,000 Japanese Yen|
+||kintone(\*1)<br>cybozu.com Administration(\*1)<br>Marketplace|Garoon(\*1)<br>Mailwise<br>Office
+|:--|:--|:--|
+|RCE|2,000,000 Japanese Yen (Fixed)|2,000,000 Japanese Yen (Fixed)|
+|SQL injection|400,000 to 1,600,000 Japanese Yen|100,000 to 1,000,000 Japanese Yen|
+|XSS|100,000 to 400,000 Japanese Yen|50,000 to 200,000 Japanese Yen|
+|Deficiency in access control|200,000 to 800,000 Japanese Yen|50,000 to 400,000 Japanese Yen|
+|Vulnerability specific in a mobile app|10,000 to 2,000,000 Japanese Yen<br>(Scope: kintone Mobile)|10,000 to 2,000,000 Japanese Yen<br>(Scope: Cloud edition Garoon Mobile, Cybozu Office Mobile)|
+|Others|10,000 to 2,000,000 Japanese Yen|10,000 to 2,000,000 Japanese Yen|
 
 (\*1) including APIs integrated in each product
 
