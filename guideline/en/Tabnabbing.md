@@ -17,13 +17,8 @@ No
 
 We have adopted the policy of not identifying "Tabnabbing" attacks as a vulnerability due to the following reasons:
 
-- Solutions that use `rel="noopener"` and other attributes are not supported by some browsers, so not all browsers can be fully protected against the attack.
-[http://caniuse.com/#feat=rel-noopener](http://caniuse.com/#feat=rel-noopener)
-- Since there are a huge number of links in existing products, modifying all links would be very difficult.
-- We have determined that the impact of the attack is limited and the risk is acceptable.
-
-For reference, Google indicates a policy of excluding this case (phishing by navigating browser tabs) from rewards.
-[https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
+- Major browsers handle this as rel="noopener" by default, which limits the potential impact. We have therefore determined that the risk is acceptable.  
+[https://caniuse.com/mdn-html_elements_a_implicit_noopener](https://caniuse.com/mdn-html_elements_a_implicit_noopener)
 
 ## References
 
