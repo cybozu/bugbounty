@@ -20,6 +20,9 @@ We have adopted the policy of not identifying "Tabnabbing" attacks as a vulnerab
 - Major browsers handle this as rel="noopener" by default, which limits the potential impact. We have therefore determined that the risk is acceptable.  
 [https://caniuse.com/mdn-html_elements_a_implicit_noopener](https://caniuse.com/mdn-html_elements_a_implicit_noopener)
 
+For reference, Google indicates a policy of excluding this case (phishing by navigating browser tabs) from rewards.  
+[https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs](https://bughunters.google.com/learn/invalid-reports/web-platform/navigation/5825028803002368/phishing-by-navigating-browser-tabs)
+
 ## References
 
 * [Tabnabbing: A New Type of Phishing Attack](http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/)
