@@ -36,4 +36,23 @@ Examples of improbable actions or scenarios:
 
 ### 4. Reports about risks accepted as part of the product specifications
 
+### 5. Reports without an attached PoC-video that meets the requirements below
+
+A vulnerability report submitted to our Bug Bounty Program must not only include a text description of the procedure for reproducing the vulnerability, but also a video (hereafter referred to as a “PoC-video”) showing the actual vulnerability being reproduced.
+If a report is submitted without a PoC-video attachment that meets the requirements below, the report will be deemed ineligible.
+
+#### 5.1 Video specifications
+- Format: .mp4 or .webm
+- Language: The display language of the testing environment (OS, browser) and services must be set to “Japanese” or “English”
+
+#### 5.2 Video content
+- The video must be one, continuous series of footage that has not been cut, trimmed, sped up, or edited to blur certain areas of the footage (including passwords, etc.) with pixelation
+- The video must clearly show the browser address bar (URL bar) at all times
+- The footage must be contained within a single video and must show the entire vulnerability reproduction process, starting from the login screen or initial state and ending with a successful attack and real harm
+
+#### 5.3 Other important information
+- The PoC-video must be uploaded directly to the attachment field in the report submission form. Uploading the video to an external service, such as a video sharing service, file transfer service, or cloud storage service, and pasting the video link into the body text of the submission form is strictly prohibited
+- If the PoC-video shows evidence of being generated, altered or tampered with using AI or other means, the report will be deemed ineligible
+- If a report is submitted through our report form with a video file but without a text description of the reproduction procedure, the report will be deemed ineligible. Make sure to include both text instructions and a PoC-video in the same submission
+
 Copyright (C) Cybozu, Inc
