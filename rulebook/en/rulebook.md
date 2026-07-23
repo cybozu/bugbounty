@@ -25,20 +25,13 @@ You can find the Terms and Conditions for Cybozu Bug Bounty Program at the follo
 # 3. Communication
 ## 3.1 Contact Us
 This program is managed by Cy-PSIRT under Cybozu, Inc.  
-Through the reporting site, you can contact us with your question about reporting vulnerabilities under this program. If you do not have an account of the reporting site, please apply it from the reporting site account request form.  
-
+Through the reporting site, you can contact us with your question about reporting vulnerabilities under this program.  
 Reporting Site:  
-https://cy-bugbounty.cybozu.com/k/  
-Reporting Site Account Request Form:  
-https://cy-psirt.form.kintoneapp.com/public/d16726f3de2ce25f846c43603fe7260c80a5adbc1ed878a7fcd66f8b671be525   
+https://cy-bugbounty.cybozu.com/k/   
 
 As for other questions, please contact us using the form below.  
 Inquiry Form:  
 https://cy-psirt.form.kintoneapp.com/public/inquery  
-
-## 3.2 PGP Key
-When reporters contact Cy-PSIRT, they can use a PGP key. The public key information is available at the following:  
-https://www.cybozu.com/jp/features/management/cy-psirt.asc
 
 # 4. Cybozu Vulnerability Information Handling Policy
 All vulnerability information that is reported to Cybozu will be received and handled in accordance with Cybozu's "Vulnerability Information Handling Policy". The Vulnerability Information Handling Policy defines how we will handle and publicize any vulnerabilities that are discovered in the products and services that Cybozu offers. For details, refer to the following Japanese Web site:  
@@ -202,7 +195,8 @@ Furthermore, reporters may be required to submit a final income tax return depen
 ## 7.3 Real-Time Point Ranking
 
 The ranking of the earned points is published, such as on our social networking sites.  
-Reporters can specify their display name in the ranking, or can choose to be anonymous.
+Reporters can specify their display name in the ranking, or can choose to be anonymous.  
+Please note that the ranking may not be published depending on the situation.
 
 ## 7.4 Others
 
